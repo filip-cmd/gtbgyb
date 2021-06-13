@@ -1,0 +1,87 @@
+.container{
+	width: 100%;
+	margin: 0 auto;
+	background-color: red;
+}
+footer{
+	background-color: #696969;
+	height: 50px;
+}
+footer p{
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+nav{
+	background-color: red;
+	width: 100%;
+	height: 50px;
+	align-items: center;
+	display: flex;
+}
+nav a{
+	color: white;
+	text-decoration: none;
+	margin-right: 10px;
+}
+.prvi{
+	margin-left: 5%;
+}
+
+.title{
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+.date{
+	color: gray;
+    width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+._img{
+	width: 90%;
+    margin: 0 auto;
+    height: 20%;
+}
+img{
+    WIDTH: 100%;
+}
+p{
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.zadnji{
+	margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+article{
+	width: 90%;
+	background-color: white;
+	margin: 0 auto;
+}
+.jedan{
+	margin: 0;
+	border: 1px solid black;
+}
+.dva{
+	margin: 0;
+	border: 1px solid grey;
+}
+.tri{
+	border: 1px solid grey;
+	margin-bottom: 10px;
+	width: 90%;
+}
+.cet{
+	border: 1px solid white;
+}
+nav a:hover{
+	background: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: red;
+}
